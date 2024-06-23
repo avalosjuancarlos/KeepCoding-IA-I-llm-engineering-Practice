@@ -34,3 +34,22 @@ Para lo cual se partió de un ejemplo de **Instruct-tuning de LLaMA 2 con QLoRA*
 
 [Milei chat tuning con LLaMA 3 y QLoRA.ipynb](./Milei%20chat%20tuning%20con%20LLaMA%203%20y%20QLoRA.ipynb)
 
+
+
+## Links a colab de respaldo
+
+Chatbot customer-service Castellano     
+
+https://colab.research.google.com/drive/1gvCiXegDVZtke9Nu15-yEnPkeLmShc8N?usp=sharing    
+
+https://colab.research.google.com/drive/19FqffgWNPZkQghkmBb4w5akdJUf8P-id?usp=sharing     
+
+https://colab.research.google.com/drive/1shiNsuKQx3OBqyOOvNzMq5qZ59SsyVIX?usp=sharing     
+
+https://colab.research.google.com/drive/1OzB2V39GlbkKBuCZZAii6qLMknuFduP9?usp=sharing     
+
+
+
+Milei chat tuning con LLaMA 3 y QLoRA.ipynb   
+
+https://colab.research.google.com/drive/12KpR44RG-4cgJp3mRCsoDGYk3CJPqjan?usp=sharing    
